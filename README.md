@@ -1,4 +1,4 @@
-# HTTP-Proxy-Server
+# Custom HTTP Web-Proxy Server
 Sure! Below is a **complete `README.md` file** you can directly use in your GitHub repo for your **Python Proxy Server** project. Just copy and paste it into your `README.md` file and customize your **name**, **GitHub username**, or any specific links if you'd like.
 
 ---
